@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://dolinin2021.github.io/use_effect_ra/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
